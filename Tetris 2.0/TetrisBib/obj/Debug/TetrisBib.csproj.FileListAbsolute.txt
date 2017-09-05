@@ -1,0 +1,5 @@
+C:\Users\mathi\Documents\Visual Studio 2015\Projects\Tetris 2.0\TetrisBib\bin\Debug\TetrisBib.dll
+C:\Users\mathi\Documents\Visual Studio 2015\Projects\Tetris 2.0\TetrisBib\bin\Debug\TetrisBib.pdb
+C:\Users\mathi\Documents\Visual Studio 2015\Projects\Tetris 2.0\TetrisBib\obj\Debug\TetrisBib.dll
+C:\Users\mathi\Documents\Visual Studio 2015\Projects\Tetris 2.0\TetrisBib\obj\Debug\TetrisBib.pdb
+C:\Users\mathi\Documents\Visual Studio 2015\Projects\Tetris 2.0\TetrisBib\obj\Debug\TetrisBib.csprojResolveAssemblyReference.cache
